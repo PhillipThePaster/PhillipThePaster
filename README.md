@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Welcome to my page insekt. I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://bullywiihacks.forumotion.com/">WiiZARD</a></b>.
+    Welcome to the Worst code you have ever seen. I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="JarquisHack.com/">Phillip</a></b>.
     <br> Balkan Insurgent | Shitty Paster |#NOTAREALCODER<br>
 
 </samp>
