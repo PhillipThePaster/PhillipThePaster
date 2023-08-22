@@ -31,10 +31,3 @@
 
 
 ----
-<p align="center">
-ᵂᵃᵗᶜʰ ᵐʸ ᶜᵒⁿᵗʳⁱᵇᵘᵗⁱᵒⁿˢ ᵍᵉᵗ ᵉᵃᵗᵉⁿ ᵘᵖ ᵇʸ ᵃ ˢⁿᵃᵏᵉ! 🐍
-</p>
-
-<p align="center">
-  <img width="400" src="https://github.com/WiiZARDD/WiiZARDD/blob/output/github-contribution-grid-snake.svg" alt="Material Bread logo">
-</p>
