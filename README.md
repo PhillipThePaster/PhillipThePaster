@@ -27,6 +27,8 @@
   &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://steamcommunity.com/groups/Tryhit-me">
   <img src="https://www.freeiconspng.com/uploads/steam-icon-19.png" width="23px" alt="Secret"></a>
+   <img align="center" alt="visitors" src="https://komarev.com/ghpvc/?username=PhillipThePaster" />
+
 </p> 
 
 
