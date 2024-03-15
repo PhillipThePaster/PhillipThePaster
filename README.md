@@ -3,6 +3,7 @@
   <samp>
     Welcome to the Worst code you have ever seen. I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="">Phillip</a></b>.
     <br> Balkan Insurgent | Shitty Paster | #NOTAREALCODER<br>
+    <br> C++ | Lua | Py | C# <br>
 
 </samp>
 
